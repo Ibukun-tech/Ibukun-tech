@@ -1,5 +1,10 @@
-### Hi there I am Ibukunoluwa
+# Hi there I am Ibukunoluwa
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibukun-tech&show_icons=true&theme=white) -->
+<img align="left" width="47%" src='https://github-readme-stats.vercel.app/api?username=ibukun-tech&show_icons=true&theme=white'/>
 
+<img  align="left" width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ibukun-tech&layout=compact&hide=html,css,scss,pug'/>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibukun-tech&hide=html)](https://github.com/ibukun-tech/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibukun-tech&layout=compact&hide=html,css,scss,pug)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **Ibukun-tech/Ibukun-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
